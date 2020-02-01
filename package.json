@@ -36,8 +36,8 @@
   },
   "devDependencies": {
     "bs-platform": "^7.0.1",
-    "husky": "^3.1.0",
-    "lint-staged": "^9.5.0",
+    "husky": "^4.2.1",
+    "lint-staged": "^10.0.7",
     "npmpub": "^5.0.0",
     "prettier": "^1.19.1"
   },
